@@ -1,0 +1,11 @@
+Have been attempting to use different activation functions, but seems to have similar outputs
+
+Using about 60 inputs
+
+Attempted to increase number of neurons from 1500 to 3000, but it increased the mean squared error
+
+instead tried adding an additional layer with 1500 neurons, same result
+
+Seems like having too small a network, AND too small a network increases our loss
+
+Going to try a deep network with at least 5 layers
